@@ -1,5 +1,5 @@
 
-bang.o：     文件格式 elf64-x86-64
+bang.o:     file format elf64-x86-64
 
 
 Disassembly of section .text:

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cstring": "c",
+        "string.h": "c",
+        "omp.h": "c",
+        "pthread.h": "c"
+    }
+}
